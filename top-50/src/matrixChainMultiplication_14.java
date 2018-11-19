@@ -20,6 +20,8 @@ public class matrixChainMultiplication_14 {
                     if (cost < c[i][j])
                         c[i][j] = cost;
 
+                    
+
                 }
             }
         }
